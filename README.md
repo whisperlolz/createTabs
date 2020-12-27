@@ -9,7 +9,7 @@
 
 Where:<br>
  ·  <code>tab</code> - class whith your tabs,<br>
- ·  <code>blockOfTabs</code> - block whith All you tabs, <br>
+ ·  <code>blockOfTabs</code> - block whith All your tabs, <br>
  ·  <code>tabContent</code> - content which you want to control; <br>
  
  And create class 'hide' and 'show' whith: <br>
